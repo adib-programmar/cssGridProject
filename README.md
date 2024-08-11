@@ -14,7 +14,7 @@ Check out the live demo: [CSS Grid Project](https://adib-programmar.github.io/cs
 
 ## Screenshot
 
-![CSS Grid Project Screenshot](screenshot.png)
+![CSS Grid Project Screenshot](preview.png)
 
 ## Installation
 
